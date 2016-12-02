@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "669813767825",
+    "firebase_url": "https://painting-eab05.firebaseio.com",
+    "project_id": "painting-eab05",
+    "storage_bucket": "painting-eab05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669813767825:android:5b849f45a5bcc49b",
+        "android_client_info": {
+          "package_name": "com.yxwzyyk.painting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669813767825-53mii34pi0s8e7ig2k5q50snku562hcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yxwzyyk.painting",
+            "certificate_hash": "7F1B9460DC57D0FE06B9C56025468177E04CDE44"
+          }
+        },
+        {
+          "client_id": "669813767825-b9gf467kh35ucm4k5ubrjftrf81karv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLgezTBNLz2I8CziqHRF66cqH4ONhz8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

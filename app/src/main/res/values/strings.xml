@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Drawing board</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="eraser_title">Eraser size</string>
+    <string name="stroke_type_title">Paintbrush type</string>
+    <string name="stroke_size_title">Paintbrush size</string>
+    <string name="stroke_color_title">Paintbrush color</string>
+    <string name="stroke_alpha_title">Opacity</string>
+    <string name="permission_storage">The program needs access to the memory card</string>
+    <string name="painting_share">Share pictures</string>
+    <string name="painting_null">The artboard is empty!</string>
+    <string name="painting_save">Saving...</string>
+    <string name="painting_save_ok">Saved successfully!</string>
+    <string name="painting_save_failure">Save failed!</string>
+    <string name="main_delete">Whether to delete?</string>
+    <string name="app_exit">You are sure to exit?</string>
+</resources>

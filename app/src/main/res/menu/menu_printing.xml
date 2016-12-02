@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.yxwzyyk.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/action_undo"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_undo_24dp"
+        app:showAsAction="always"
+        android:title="" />
+
+    <item
+        android:id="@+id/action_redo"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_redo_24dp"
+        app:showAsAction="always"
+        android:title="" />
+
+
+</menu>
